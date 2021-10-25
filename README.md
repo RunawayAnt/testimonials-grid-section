@@ -1,14 +1,4 @@
-# Frontend Mentor - Testimonials grid section solution
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+# Testimonials grid section solution
 
 ## Overview
 
@@ -20,7 +10,7 @@ Users should be able to:
 
 ### Screenshot
 
-[view-desktop](./images/screenshot/sc-desktop.png)
+![](./images/screenshot/sc-desktop.png)
 [view-mobile-a](./images/screenshot/sc-mobile-a.png)
 [view-mobile-b](./images/screenshot/sc-mobile-b.png)
 ### Links
