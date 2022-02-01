@@ -13,5 +13,4 @@
 
 ### Links
 
-- Solution URL: [github/sanchant](https://github.com/Sanchant/testimonials-grid-section)
 - Live Site URL: [testimonials-grid-section-sanchant.netlify.app](https://testimonials-grid-section-sanchant.netlify.app/)
